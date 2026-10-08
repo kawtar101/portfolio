@@ -121,7 +121,7 @@ a {
   font-weight: 700;
 }
 
-/* ---------- 4. Présentation ---------- */
+/* ---------- 4. acceuil---------- */
 .presentation {
   padding: 96px 0;
 }
@@ -183,7 +183,7 @@ a {
   color: var(--couleur-texte-doux);
 }
 
-/* ---------- 6. Compétences ---------- */
+/* ---------- 6. A propos ---------- */
 .competences {
   display: flex;
   gap: 16px;
