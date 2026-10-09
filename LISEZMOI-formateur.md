@@ -1,31 +1,40 @@
-# Modèle de départ — Brief 1 (Sprint 1) — notes pour le formateur
+# Mon Portfolio — Kawtar Asrarfi
 
-## Contenu du dossier
+## Présentation
 
-- `site/` : le site d'une seule page à remettre aux apprenants (à publier dans un dépôt GitHub qu'ils pourront forker).
-- `maquette/maquette-portfolio.svg` : la maquette de cette page, à importer dans Figma.
-- `maquette/maquette-portfolio.png` : un aperçu de la maquette.
+Bienvenue sur mon portfolio personnel ! Ce projet a été réalisé dans le cadre de ma formation en développement web à YouCode.
 
-## Importer la maquette dans Figma
+Il me permet de présenter mon parcours, mes compétences, mes projets et mes objectifs professionnels en tant que future développeuse web.
 
-1. Créer un nouveau fichier de design dans Figma.
-2. Glisser-déposer `maquette-portfolio.svg` sur le canevas (ou Fichier > Placer une image).
-3. La page arrive sous forme de calques modifiables, regroupés par section : En-tête, Présentation, Compétences, Projets, Contact, Pied de page. Les textes restent des textes, en police Inter.
-4. Partager le fichier en lecture : chaque apprenant le duplique dans son espace.
+## Technologies utilisées
 
-Largeur de la maquette : 1440 px. Contenu centré sur 1100 px.
+* **HTML5** : structure des pages web.
+* **CSS3** : mise en forme et design.
+* **CSS Grid** : organisation des cartes de projets.
+* **Figma** : conception et modification de la maquette.
+* **Git et GitHub** : gestion des versions et hébergement du code.
 
-## Ce que le modèle laisse volontairement à faire
+## Structure du projet
 
-| Dans le modèle | Tâche du brief |
-| --- | --- |
-| Contenu générique (« Prénom Nom », textes et images provisoires) | Modifier |
-| Couleurs et police définies dans des variables CSS (`:root`) | Modifier la charte |
-| 3 projets d'exemple | Passer à 4 cartes au minimum |
-| Une seule page, menu en ancres (`#projets`, `#contact`) | Séparer en 3 pages |
-| Projets empilés en une colonne, sans CSS Grid | Manipuler : passer en grille |
-| Section Compétences sur la page unique | Manipuler : la déplacer vers À propos |
-| Formulaire sans champ Sujet, e-mail en `type="text"`, aucun `required` | Manipuler : compléter le formulaire |
-| Pas de page À propos | Créer |
+* `index.html` : page d'accueil et présentation.
+* `projets.html` : présentation de mes projets.
+* `a-propos.html` : mon parcours, mes compétences et mes objectifs.
+* `contact.html` : formulaire de contact et liens vers mes réseaux professionnels.
+* `css/style.css` : styles et mise en page du site.
 
-Le modèle n'est pas responsive : c'est l'objet du Brief 2.
+## Fonctionnalités
+
+* Navigation entre plusieurs pages.
+* Présentation de mes compétences et de mes projets.
+* Affichage des projets sous forme de grille.
+* Formulaire de contact avec validation HTML.
+* Liens vers mes réseaux professionnels.
+
+
+
+## Objectif du projet
+
+L'objectif est de mettre en pratique mes connaissances en HTML et CSS, d'améliorer mes compétences en développement web et de construire mon portfolio personnel.
+
+Réalisé par **Kawtar Asrarfi** — Apprenante en développement web à YouCode.
+
